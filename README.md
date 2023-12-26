@@ -42,6 +42,7 @@ for i in range(n):
 
 ## Output:
 ![gaussian elimination]()
+![gaussian op](https://github.com/Tanug25/Gaussian/assets/138849166/0cb8fcaf-5ae5-4d9e-a014-df48c9d4eede)
 
 
 ## Result:
